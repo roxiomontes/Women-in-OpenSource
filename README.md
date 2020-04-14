@@ -2,9 +2,9 @@
 A list of women who are active in the Open Source community
 
 Please use the following format:
-
+```
 [Name](link to github profile), [project](github link to project)
-
+```
 # Creator and Maintainer
 Women who started the project from scratch
 
