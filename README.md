@@ -24,3 +24,7 @@ Women who became maintainers because of their amazing contributions
 # Contributors
 Women who contribute or are active in open source projects
 1. [Samantha Monteiro](https://github.com/samanthakem)
+2. [Madhura Bhave](https://github.com/mbhave), [Spring Boot](https://github.com/spring-projects/spring-boot)
+3. [Amanda Hinchman-Dominguez](https://github.com/ahinchman1), [ArrowKt](https://github.com/arrow-kt/arrow-meta)
+4. [Rachel M. Carmena](https://github.com/rachelcarmena), [ArrowKt](https://github.com/arrow-kt/arrow)
+5. [Svetlana Isakova](https://github.com/svtk), [Kotlin](https://github.com/JetBrains/kotlin)
