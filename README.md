@@ -14,6 +14,8 @@ Women who started the project from scratch
 4. [Karen Lo](https://github.com/karenclo), co-created [Metriks](https://github.com/intuit/metriks)
 5. [Crystal Chung](https://github.com/crystal-chung), co-created [Metriks](https://github.com/intuit/metriks)
 6. [Kendall Gassner](https://github.com/kendallgassner), created [eslint-plugin-no-explicit-type-exports](https://github.com/intuit/eslint-plugin-no-explicit-type-exports)
+7. [Chrissy LeMaire](https://github.com/potatoqualitee), created [dbatools](https://github.com/sqlcollaborative/dbatools)
+8. [Katrina Owen](https://github.com/kytrinyx), created [Exercism](https://github.com/exercism)
 
 
 # Maintainers
