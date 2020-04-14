@@ -23,3 +23,4 @@ Women who became maintainers because of their amazing contributions
 
 # Contributors
 Women who contribute or are active in open source projects
+1. [Samantha Monteiro](https://github.com/samanthakem)
