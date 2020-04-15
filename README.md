@@ -16,6 +16,7 @@ Women who started the project from scratch
 6. [Kendall Gassner](https://github.com/kendallgassner), created [eslint-plugin-no-explicit-type-exports](https://github.com/intuit/eslint-plugin-no-explicit-type-exports)
 7. [Chrissy LeMaire](https://github.com/potatoqualitee), created [dbatools](https://github.com/sqlcollaborative/dbatools)
 8. [Katrina Owen](https://github.com/kytrinyx), created [Exercism](https://github.com/exercism)
+9. [Liz Rice](https://github.com/lizrice), created [Containers from Scratch with Go](https://github.com/lizrice/containers-from-scratch)
 
 
 # Maintainers
