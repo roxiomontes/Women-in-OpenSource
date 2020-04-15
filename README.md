@@ -22,6 +22,7 @@ Women who started the project from scratch
 # Maintainers
 Women who became maintainers because of their amazing contributions
 
+
 # Contributors
 Women who contribute or are active in open source projects
 1. [Samantha Monteiro](https://github.com/samanthakem)
@@ -29,3 +30,7 @@ Women who contribute or are active in open source projects
 3. [Amanda Hinchman-Dominguez](https://github.com/ahinchman1), [ArrowKt](https://github.com/arrow-kt/arrow-meta)
 4. [Rachel M. Carmena](https://github.com/rachelcarmena), [ArrowKt](https://github.com/arrow-kt/arrow)
 5. [Svetlana Isakova](https://github.com/svtk), [Kotlin](https://github.com/JetBrains/kotlin)
+6. [Tracy Miranda](https://github.com/tracymiranda), [Jenkins](https://github.com/jenkinsci/jenkins)
+7. [Kara da la Marck](https://github.com/MarckK), [Jenkins X](https://github.com/jenkins-x)
+8. [Alyssa Tong](https://github.com/alyssat), [Jenkins Events Officer](https://jenkins.io/project/board/)
+9. [Ewelina Wilkosz](https://github.com/ewelinawilkosz), [Jenkins configuration as code](https://plugins.jenkins.io/configuration-as-code/)
