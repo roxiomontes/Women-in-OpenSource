@@ -36,7 +36,7 @@ Women who contribute or are active in open source projects
 8. [Alyssa Tong](https://github.com/alyssat), [Jenkins Events Officer](https://jenkins.io/project/board/)
 9. [Ewelina Wilkosz](https://github.com/ewelinawilkosz), [Jenkins configuration as code](https://plugins.jenkins.io/configuration-as-code/)
 
-# Projects with female power 
+# Projects with Female Power 💪
 1. [otwarchive (Archive of Our Own)](https://github.com/otwcode/otwarchive), one of only two open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
 2. [Dreamwidth](https://github.com/dreamwidth/dw-free), a fork of LiveJournal and one of only two large open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
 3. [Growstuff](https://github.com/Growstuff/growstuff), founded by Alex Bayley, who is non-binary. Around half of contributors are women
