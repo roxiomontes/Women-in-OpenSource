@@ -17,7 +17,13 @@ Women who started the project from scratch
 7. [Chrissy LeMaire](https://github.com/potatoqualitee), created [dbatools](https://github.com/sqlcollaborative/dbatools)
 8. [Katrina Owen](https://github.com/kytrinyx), created [Exercism](https://github.com/exercism)
 9. [Liz Rice](https://github.com/lizrice), created [Containers from Scratch with Go](https://github.com/lizrice/containers-from-scratch)
+10. [Audrey Feldroy](https://github.com/audreyr), created [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
+11. [Hannah Wolfe](https://github.com/ErisDS), co-founder of [Ghost](https://github.com/TryGhost/Ghost)
 
+# Projects
+1. [otwarchive (Archive of Our Own)](https://github.com/otwcode/otwarchive), one of only two open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
+2. [Dreamwidth](https://github.com/dreamwidth/dw-free), a fork of LiveJournal and one of only two large open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
+3. [Growstuff](https://github.com/Growstuff/growstuff), founded by Alex Bayley, who is non-binary. Around half of contributors are women
 
 # Maintainers
 Women who became maintainers because of their amazing contributions
