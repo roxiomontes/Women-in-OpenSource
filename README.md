@@ -5,7 +5,7 @@ Please use the following format:
 ```
 [Name](link to github profile), [project](github link to project)
 ```
-# Creator and Maintainer
+# Creators and Maintainers
 Women who started the project from scratch
 
 1. [Katie Levy](https://github.com/katielevy1), created [Truffle-Shuffle](https://github.com/intuit/truffle-shuffle)
@@ -19,11 +19,6 @@ Women who started the project from scratch
 9. [Liz Rice](https://github.com/lizrice), created [Containers from Scratch with Go](https://github.com/lizrice/containers-from-scratch)
 10. [Audrey Feldroy](https://github.com/audreyr), created [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
 11. [Hannah Wolfe](https://github.com/ErisDS), co-founder of [Ghost](https://github.com/TryGhost/Ghost)
-
-# Projects
-1. [otwarchive (Archive of Our Own)](https://github.com/otwcode/otwarchive), one of only two open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
-2. [Dreamwidth](https://github.com/dreamwidth/dw-free), a fork of LiveJournal and one of only two large open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
-3. [Growstuff](https://github.com/Growstuff/growstuff), founded by Alex Bayley, who is non-binary. Around half of contributors are women
 
 # Maintainers
 Women who became maintainers because of their amazing contributions
@@ -40,3 +35,8 @@ Women who contribute or are active in open source projects
 7. [Kara da la Marck](https://github.com/MarckK), [Jenkins X](https://github.com/jenkins-x)
 8. [Alyssa Tong](https://github.com/alyssat), [Jenkins Events Officer](https://jenkins.io/project/board/)
 9. [Ewelina Wilkosz](https://github.com/ewelinawilkosz), [Jenkins configuration as code](https://plugins.jenkins.io/configuration-as-code/)
+
+# Projects with female power 
+1. [otwarchive (Archive of Our Own)](https://github.com/otwcode/otwarchive), one of only two open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
+2. [Dreamwidth](https://github.com/dreamwidth/dw-free), a fork of LiveJournal and one of only two large open source projects where the majority of contributors are women, [according to GeekFeminism](https://geekfeminism.wikia.org/wiki/List_of_women-dominated_projects_in_FLOSS)
+3. [Growstuff](https://github.com/Growstuff/growstuff), founded by Alex Bayley, who is non-binary. Around half of contributors are women
