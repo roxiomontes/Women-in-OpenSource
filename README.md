@@ -19,6 +19,8 @@ Women who started the project from scratch
 9. [Liz Rice](https://github.com/lizrice), created [Containers from Scratch with Go](https://github.com/lizrice/containers-from-scratch)
 10. [Audrey Feldroy](https://github.com/audreyr), created [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
 11. [Hannah Wolfe](https://github.com/ErisDS), co-founder of [Ghost](https://github.com/TryGhost/Ghost)
+12. [Susmitha Kodamarthi](https://github.com/skodamarthi), co-created [user-data-for-fraud-prevention](https://github.com/intuit/user-data-for-fraud-prevention)
+
 
 # Maintainers
 Women who became maintainers because of their amazing contributions
